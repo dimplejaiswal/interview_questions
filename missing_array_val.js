@@ -1,4 +1,4 @@
-//Question - FInd the missing value of an sorted array.
+//Question - FInd the missing value of a sorted srray sorted array.
 
 //Answer 1
 function findMissingVal(val) {
